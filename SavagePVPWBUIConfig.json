@@ -15,19 +15,18 @@
       "tabs": [
         {
           "tab1": {
-            "layout": 2,
+            "layout": 1,
             "buttontext": "Welcome!",
             "title1": "Welcome to SavagePVP Ascended!",
             "text1": "Rules",
             "text2": "General Rules\n\n~ Racism and/or discrimination of ANY kind will not be tolerated\n~ Racism and/or discrimination of ANY kind will not be tolerated\n~ Do not threaten DDOS, DOX ANY member/Server\n~ Do not Talk about Cheating, ESP, Aimbot, Duping, Meshing, Exploits\n~ Do not Promote other servers without admin/owner approval\n~ Spamming in-game and/or discord will not be tolerated\n~ Threats and/or abuse to staff or any member of this discord will not be tolerated\n",
             "text3": "Game Rules\n\n~ Using programs/Exploits to gain an advantage is not allowed, this includes BUT not limited to (ESP, Aimbot, Exploits, Glitches)\n~ Building in any of the banned locations listed in #Server-Info is prohibited\n~ Mesh raiding, living in the mesh, placing structures in the mesh is prohibited\n~ Teaming/Ally Raiding is not allowed\n~ Building into a base/ Box raiding of ANY kind is not allowed\n~ Using structures to LOS into a base is prohibited\n~ Character/Tribe Names cannot include Human or 123, They MUST be unique\n~ Impersonating admins, another player/tribe is forbidden\n~ Excessive spamming around your base is not allowed\n",
             "text4": "Extra Notes\n\n~ Dino’s, Structures, Items that are lost due to Ark, Server roll backs, DDOS, Crashes will not be replaced\n~ YOU are responsible for what your tribe does, this includes insiding. (Invite at your own risk)\n~ You are not allowed to keep duped loot, if you find a base with duped loot create a ticket\n",
-            "imageurl": " "
           }
         },
         {
           "tab2": {
-            "layout": 2,
+            "layout": 3,
             "buttontext": "Settings",
             "title1": "INI settings:",
             "text1": "<TextStyle.LightBlue>Ini Header:</>\n\n\\[WBUI2]\n\n\nINI-Options:\n\nJsonURL=\"url\"  -  default: \"https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/default.json\"\n\nYou have to host the file as \"raw\" somewhere and enter the URL to it wrapped in \" \". You can use github (linked below). After uploading the file you'll find a button called \"raw\". click the button and copy the URL. Or use any other hosting site which offers linking to a raw JSON output.\n\nFor a more detailed instruction checkout the Wiki linked down below.\n\n\nYou can trigger an update of the JSON via console command:\ncheat scriptcommand WBUI2 update",
