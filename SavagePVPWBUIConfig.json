@@ -4,10 +4,9 @@
           "OpenButton": 0,
           "HideIcon": false,
           "HideIconAfter": 60,
-          "IconURL": "https://i.imgur.com/OZ6xOjY.png",
           "DisableIconText": false,
           "IconPosition": 0,
-          "IconTextColor": 0,
+          "IconTextColor": 7,
           "OpenOnStart": true,
           "OpenOnStartOnlyNewPlayers": true,
           "UpdateInterval": 12
@@ -36,13 +35,13 @@
       "links": [
           {
               "link1": {
-                  "text": "Discord",
+                  "text": "Discord (jJaanKHdHd)",
                   "url": "https://discord.gg/jJaanKHdHd"
               }
           },
           {
               "link2": {
-                  "text": "Donation Store",
+                  "text": "store.savage-pvp.com",
                   "url": "https://store.savage-pvp.com/"
               }
           }
