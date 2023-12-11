@@ -7,7 +7,7 @@
           "DisableIconText": false,
           "IconURL": " ",
           "IconPosition": 0,
-          "IconTextColor": 0,
+          "IconTextColor": 7,
           "OpenOnStart": true,
           "OpenOnStartOnlyNewPlayers": true,
           "UpdateInterval": 12
