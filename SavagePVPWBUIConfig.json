@@ -5,6 +5,7 @@
           "HideIcon": false,
           "HideIconAfter": 60,
           "DisableIconText": false,
+          "IconURL": " ",
           "IconPosition": 0,
           "IconTextColor": 0,
           "OpenOnStart": true,
