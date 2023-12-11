@@ -16,9 +16,10 @@
         {
           "tab1": {
             "layout": 1,
-            "buttontext": "Welcome",
+            "buttontext": "Welcome!",
             "title1": "Welcome to SavagePVP Ascended!",
-            "text1": "<TextStyle.LightBlue>Rules</>"
+            "text1": "<TextStyle.LightBlue>Rules</>",
+            "text2": "<TextStyle.LightBlue>General Rules\n\n~ Racism and/or discrimination of ANY kind will not be tolerated\n~ Racism and/or discrimination of ANY kind will not be tolerated\n~ Do not threaten DDOS, DOX ANY member/Server\n~ Do not Talk about Cheating, ESP, Aimbot, Duping, Meshing, Exploits\n~ Do not Promote other servers without admin/owner approval\n~ Spamming in-game and/or discord will not be tolerated\n~ Threats and/or abuse to staff or any member of this discord will not be tolerated\n</>"
           }
         },
         {
